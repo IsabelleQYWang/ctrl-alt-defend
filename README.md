@@ -1,5 +1,7 @@
 # ctrl-alt-defend
 
+# TO PLAY THE GAME: https://ctrl-alt-defend.itch.io/ctrl-alt-defend
+
 # 🌟 Inspiration
 Drawing from our very own experience with cyber frauds and difficulties navigating technologies, we believe creating a visual decision-making game can guide players through these hassles in a more fun and interactive manner!
 
