@@ -1,4 +1,6 @@
-# ctrl-alt-defend
+# Ctrl + Alt + Defend 
+Ctrl + Alt + Defend isn’t just a game. it’s a cybersecurity training tool. 
+Whether for students, professionals, or businesses, our interactive experience makes online safety practical and fun. 
 
 # TO PLAY THE GAME: https://ctrl-alt-defend.itch.io/ctrl-alt-defend
 
@@ -22,16 +24,6 @@ This is our first time being in a Hackathon, everything and everyone seemed so i
 # 🛠️ How we built it
 We built our program using:
 RenPy, Python, Generative AI, and GitHub Copilot
-
-
-## Challenges we ran into
-As we aren't familiar with Python, we had to rely on ChatGPT to write most of our code. However, this came with its own problems as we couldn't debut on our own. Most of our problems come from our unfamiliarity with Python, leading to an overreliance on AI.
-
-## Accomplishments that we're proud of
-We're proud that we managed to create a working program. As first-time hackers, we came in unsure if we were going to make anything, but we were able to create and present our hack.
-
-## What we learned
-We learned a lot about python and github and overall how to think of a project and bring it into existence this weekend. We also learned about github copilot and figma during the workshops.
 
 ## What's next for Ctrl + Alt + Defend
 "Ctrl+Alt+Defend isn’t just a game—it’s a cybersecurity training tool. Whether for students, professionals, or businesses, our interactive experience makes online safety practical and fun. Moving forward, we aim to expand with more phishing scenarios, and more interactive mini games to keep cybersecurity awareness fun. Additionally, we hope to collaborate with cybersecurity educators and organizations to make online safety accessible and engaging."
