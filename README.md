@@ -25,5 +25,5 @@ This is our first time being in a Hackathon, everything and everyone seemed so i
 We built our program using:
 RenPy, Python, Generative AI, and GitHub Copilot
 
-## What's next for Ctrl + Alt + Defend
+# 💡 What's next for Ctrl + Alt + Defend
 "Ctrl+Alt+Defend isn’t just a game—it’s a cybersecurity training tool. Whether for students, professionals, or businesses, our interactive experience makes online safety practical and fun. Moving forward, we aim to expand with more phishing scenarios, and more interactive mini games to keep cybersecurity awareness fun. Additionally, we hope to collaborate with cybersecurity educators and organizations to make online safety accessible and engaging."
