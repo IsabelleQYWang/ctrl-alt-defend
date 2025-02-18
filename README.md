@@ -18,12 +18,5 @@ When starting the game, the player would take on the role of **CyberGod**, a tec
 
 Now doesn’t all of that sound exciting? Wait no more, grab your laptop and your brains, and let’s embark on this journey of helping your close friends out while also learning new things yourself!
 
-# 📚 Journey Reflection
-This is our first time being in a Hackathon, everything and everyone seemed so intimidating at first. We only met each other at the ceremony, not actually knowing what to do or how to do things. Yet, through effective communications and a blend of creativity and compsci, we managed to execute a fun mini-project that we can all feel proud of looking back at. In the process of making the game, we get to learn so much about each other, our skills complement one another, and we all bring in fun and cheeky ideas to make the game engaging and user-friendly! 
-
-# 🛠️ How we built it
-We built our program using:
-RenPy, Python, Generative AI, and GitHub Copilot
-
 # 💡 What's next for Ctrl + Alt + Defend
 "Ctrl+Alt+Defend isn’t just a game—it’s a cybersecurity training tool. Whether for students, professionals, or businesses, our interactive experience makes online safety practical and fun. Moving forward, we aim to expand with more phishing scenarios, and more interactive mini games to keep cybersecurity awareness fun. Additionally, we hope to collaborate with cybersecurity educators and organizations to make online safety accessible and engaging."
